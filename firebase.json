@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "climbkit-f6608",
+                    "appId": "1:940197186244:android:17e19dfc82cc0f30d1d791",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "climbkit-f6608",
+                    "configurations": {
+                        "android": "1:940197186244:android:17e19dfc82cc0f30d1d791",
+                        "ios": "1:776208998641:ios:9fb8a37c4b0036ead9c950",
+                        "macos": "1:776208998641:ios:9fb8a37c4b0036ead9c950",
+                        "web": "1:776208998641:web:826907e71f8434bed9c950",
+                        "windows": "1:776208998641:web:94688b0df707ed30d9c950"
+                    }
+                }
+            }
+        }
+    }
+}
